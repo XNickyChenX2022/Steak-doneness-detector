@@ -17,8 +17,7 @@ Here are the accuracies and the loss values of the training and the validation s
 ![image](https://github.com/XNickyChenX2022/Steak-doneness-detector/assets/115733348/8beaa85e-42ff-4865-a9a3-5c1ea30057ed)
 ![image](https://github.com/XNickyChenX2022/Steak-doneness-detector/assets/115733348/69e04e57-11d0-4062-a0e2-7eb69b3486e1)
 # VI. Testing the model
-It's commendable that the model achieved a test accuracy of approximately 92 percent. However, the acknowledgment of some incorrectly classified images is crucial for refining the model further. Despite these instances, the overall accuracy remains high, and it's noteworthy that the misclassifications were generally within one level of doneness. This indicates a robust performance by the classifier, showcasing its ability to accurately predict the steak's doneness with a high degree of precision. Continued testing and potential adjustments can contribute to further improving the model's accuracy and reliability.
-Below of some of the steaks that were mislabeled. As one can see, they are all off by one level of doneness.
+It's commendable that the model achieved a test accuracy of approximately 92 percent. However, the acknowledgment of some incorrectly classified images is crucial for refining the model further. Despite these instances, the overall accuracy remains high, and it's noteworthy that the misclassifications were generally within one level of doneness. This indicates a robust performance by the classifier, showcasing its ability to accurately predict the steak's doneness with a high degree of precision. Continued testing and potential adjustments can contribute to further improving the model's accuracy and reliability. Below of some of the steaks that were mislabeled. As one can see, they are all off by one level of doneness.
 ![image](https://github.com/XNickyChenX2022/Steak-doneness-detector/assets/115733348/481d6a81-2a18-404c-8914-e02381106e36)
 
 # VII. Discussion/ Potential Issues
