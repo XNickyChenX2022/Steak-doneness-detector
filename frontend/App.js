@@ -49,7 +49,7 @@ export default function App() {
           setSteakType={setSteakType}
         />
       )}
-      {/* <StatusBar style="auto" /> */}
+      <StatusBar style="auto" />
     </View>
   );
 }
